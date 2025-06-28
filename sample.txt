@@ -19,5 +19,6 @@ the edit made under the same pulled file is a copy of pulled one and not the pul
 
 Now it is switched to new branch "New_repo_cmd" so when u push this sample.txt file it will be uploaded in the new repo
 
+git status will show the branch you are in.
 
 
