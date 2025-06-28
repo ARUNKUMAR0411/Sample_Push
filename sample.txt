@@ -1,0 +1,8 @@
+This file content is added after pushing the file to remote repository and below are the steps followed
+1. git init
+2. git add "sample.txt"
+3. git commit -m "first commit"
+4. git remote add origin "https://github.com/ARUNKUMAR0411/Sample_Push.git"
+5. git push -u origin master
+
+/* created a new branch master */
